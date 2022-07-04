@@ -90,3 +90,10 @@ The most noticable change was in the spending group which included Thomas High S
 ![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_typer_edited.png)
 
 # Summary
+
+After comparing our original report outcomes with those produced after replacing the Thomas High School 9th grade scores with null (and then again after adjusting the 10th through 12th grade scores), there were four changes that were ntocied.
+
+1. There was very little change in the overall *district* summary after our updates. Essentially, we made a change to less than 500 values in a data set of more than 31,000 students, which isn't enough to affect mean testing scores. 
+2. However, when we look at the *school* summary, removing the ninth grade math and reading scores resulted in a significant decrease in the passing percentages for Thomas High School in math (93.3% to 66.9%), reading (97.3% to 69.7%) and overall (90.9% to 65.1%). 
+3. It was important for us to reestablish accurate test scores for Thomas after removing the ninth grade results. By recalculating their success rates with scores from 10th, 11th and 12th grade students, the school moved back closer to what are likely their true outcomes.
+4. However, one area of noticable change was in the school spending DataFrame, where the group that inlcuded Thomas High School displayed a higher number of students passing their standardized tests than before we updated the dataset.
