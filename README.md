@@ -38,7 +38,7 @@ By replacing the standardized test scores of ninth grade students at Thomas High
 
 -Original School Summary
 
-1[](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_summary_original.png) 
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_summary_original.png) 
 
 - Edited School Summary
 
