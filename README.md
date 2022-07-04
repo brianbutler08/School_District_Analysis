@@ -32,67 +32,67 @@ By replacing the standardized test scores of ninth grade students at Thomas High
 
 - Edited District Summary
 
-![image](https://user-images.githubusercontent.com/106709111/177065798-4979b3c1-43e7-411f-a2cc-c2e00b325311.png)
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/district_summary_edited.png) 
 
 ## School Summary
 
 -Original School Summary
 
-
+1[](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_summary_original.png) 
 
 - Edited School Summary
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_summary_edited.png)
 
 ## Math Scores By Grade
 
 - Original Math Scores
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/math_scores_by_grade_original.png)
 
 - Edited Math Scores
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/math_scores_by_grade_edited.png)
 
 ## Reading Scores By Grade
 
 - Original Reading Scores
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/reading_scores_by_grade_original.png)
 
 - Edited Reading Scores
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/reading_scores_by_grade_edited.png)
 
 ## Scores By School Spending
 
 - Original School Spending
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_spending_original.png)
 
 - Edited School Spending
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_spending_edited.png)
 
 ## Scores By School Size
 
 -Original School Size
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_size_original.png)
 
 - Edited School Size
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_size_edited.png)
 
 ## Scores By School Type
 
 -Original School Type
 
-
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_type_original.png)
 
 - Edited School Type
 
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/school_typer_edited.png)
 
 
 
