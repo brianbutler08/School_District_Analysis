@@ -22,6 +22,78 @@ There were two datasets that we utilized during this analysis and they were comb
 
 # Results
 
+By replacing the standardized test scores of ninth grade students at Thomas High School with a null value, we anticipated that there may be some changes in the overall outcomes realted to the analysis. In order to attempt to quantify these changes, we wanted to directly compare our original DataFrames with the DataFrames that were produced after the removal of the suspicious scores. 
+
+## District Summary
+
+- Original District Summary
+
+![](https://github.com/brianbutler08/School_District_Analysis/blob/main/Resources/Images%20for%20report/district_summary_original.png)
+
+- Edited District Summary
+
+
+
+## School Summary
+
+-Original School Summary
+
+
+
+- Edited School Summary
+
+
+
+## Math Scores By Grade
+
+- Original Math Scores
+
+
+
+- Edited Math Scores
+
+
+
+## Reading Scores By Grade
+
+- Original Reading Scores
+
+
+
+- Edited Reading Scores
+
+
+
+## Scores By School Spending
+
+- Original School Spending
+
+
+
+- Edited School Spending
+
+
+
+## Scores By School Size
+
+-Original School Size
+
+
+
+- Edited School Size
+
+
+
+## Scores By School Type
+
+-Original School Type
+
+
+
+- Edited School Type
+
+
+
 
 
 # Summary
